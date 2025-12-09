@@ -39,7 +39,7 @@ If applicable, paste any relevant links: Figma design, documentation website, mi
 ### Release checklist
 - [ ] **[changelog](https://github.com/elastic/eui/blob/main/wiki/contributing-to-eui/documenting/changelogs.md)** added
 - [ ] **[documentation](https://github.com/elastic/eui/blob/main/wiki/contributing-to-eui/documenting)** updated
-- [ ] **[EUI Figma](https://www.figma.com/files/776883452119367313/recents-and-sharing?fuid=613449417977720558)** updated
+- [ ] **[EUI Figma](https://github.com/elastic/eui/blob/main/wiki/contributing-to-eui/designing)** updated
 - [ ] **if breaking changes**
     - [ ] **`breaking change`** - label added
     - [ ] **migration instructions** - exist
